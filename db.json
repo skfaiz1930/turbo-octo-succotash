@@ -1,0 +1,69 @@
+{
+  "studentList": [
+    {
+      "Name": "Faiz",
+      "Class": "I",
+      "DOB": "2022-06-25T18:30:00.000Z",
+      "Gender": "Male",
+      "Subject": "Science",
+      "id": 3
+    },
+    {
+      "Name": "Shruti",
+      "Class": "III",
+      "DOB": "2022-06-27T18:30:00.000Z",
+      "Gender": "Female",
+      "Subject": "Maths",
+      "id": 4
+    },
+    {
+      "Name": "Madhavi",
+      "Class": "III",
+      "DOB": "2022-06-27T18:30:00.000Z",
+      "Gender": "Female",
+      "Subject": "Hindi",
+      "id": 5
+    },
+    {
+      "Name": "Harsh",
+      "Class": "III",
+      "DOB": "2022-06-29T18:30:00.000Z",
+      "Gender": "Male",
+      "Subject": "Maths",
+      "id": 6
+    },
+    {
+      "Name": "Suman",
+      "Class": "II",
+      "DOB": "2022-06-30T18:30:00.000Z",
+      "Gender": "Female",
+      "Subject": "Maths",
+      "id": 7
+    },
+    {
+      "Name": "Madhav",
+      "Class": "II",
+      "DOB": "2022-06-21T18:30:00.000Z",
+      "Gender": "Male",
+      "Subject": "Maths",
+      "id": 8
+    },
+    {
+      "Name": "Noor",
+      "Class": "III",
+      "DOB": "2022-07-02T18:30:00.000Z",
+      "Gender": "Male",
+      "Subject": "Science",
+      "id": 9
+    },
+    {
+      "Name": "Anam",
+      "Class": "III",
+      "DOB": "2022-07-29T18:30:00.000Z",
+      "Gender": "Female",
+      "Subject": "English",
+      "id": 10
+    }
+  ],
+  "teacherList": []
+}
